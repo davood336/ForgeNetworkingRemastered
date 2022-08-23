@@ -1,3 +1,4 @@
+https://github.com/BeardedManStudios/ForgeNetworkingRemastered/wiki     آموزش
 
 ![](http://i.imgur.com/ezLjujn.png)
 
